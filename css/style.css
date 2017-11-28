@@ -4,3 +4,13 @@ p{
 #p1{
   color: blue;
 }
+
+div#test
+{
+	background-image:url(../images/index_banner_bg.jpg);
+	width:1920px;
+	height:1124px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
